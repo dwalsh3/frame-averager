@@ -1,5 +1,5 @@
 /* Frame Averager service worker — bump CACHE to ship an update */
-const CACHE = 'frame-averager-v6';
+const CACHE = 'frame-averager-v7';
 const ASSETS = [
   './',
   'index.html',
